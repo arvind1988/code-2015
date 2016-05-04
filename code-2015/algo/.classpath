@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="ds"/>
+	<classpathentry kind="src" path="euler"/>
+	<classpathentry kind="src" path="hack"/>
+	<classpathentry kind="src" path="arrayp"/>
+	<classpathentry kind="src" path="bitwise"/>
+	<classpathentry kind="src" path="sort"/>
+	<classpathentry kind="src" path="util"/>
+	<classpathentry kind="src" path="linkedlist"/>
+	<classpathentry kind="src" path="dynamic"/>
+	<classpathentry kind="src" path="string"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
